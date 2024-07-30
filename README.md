@@ -1,4 +1,4 @@
-<div align='center' style="background-color:white;border-radius:10px;padding:10px;">
+<div align='center'>
     <img height='75px' src='docs/logos/Ocean-Decade-logo-transparent.png'/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height='75px' src='docs/logos/ocean_decade_collaborative_center_for_the_northeast_pacific_logo.jpeg'/>
