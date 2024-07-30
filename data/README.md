@@ -1,4 +1,3 @@
----
 # Data
 
 This folder contains all the data collected by the GEM-in-a-box instruments.
