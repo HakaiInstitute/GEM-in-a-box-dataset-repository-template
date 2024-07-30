@@ -1,11 +1,11 @@
 <div align='center'>
-    <img width='175px' src='docs/logos/Ocean-Decade-logo-transparent.png'/>
+    <img height='75px' src='docs/logos/Ocean-Decade-logo-transparent.png'/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width='175px' src='docs/logos/ocean_decade_collaborative_center_for_the_northeast_pacific_logo.jpeg'/>
+    <img height='75px' src='docs/logos/ocean_decade_collaborative_center_for_the_northeast_pacific_logo.jpeg'/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href='https://tula.org'><img width='175px' src=docs/logos/tula-logo.png /></a>
+    <a href='https://tula.org'><img height='75px' src=docs/logos/tula-logo.png /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href='https://hakai.org'><img width='175px' src=docs/logos/hakai-logo.png /></a>
+    <a href='https://hakai.org'><img height='75px' src=docs/logos/hakai-logo.png /></a>
 </div>
 
 # dataset-title
