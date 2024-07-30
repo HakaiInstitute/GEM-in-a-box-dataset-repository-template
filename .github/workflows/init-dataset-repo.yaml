@@ -29,6 +29,10 @@ jobs:
       - name: Format readme with repository name
         run: |
           sed -i 's|# dataset-title|# ${{ github.repository }}|g' README.md
+      - name: Format CHANGELOG
+        run: |
+          current_date=$(date +'%Y-%m-%d')
+          sed -i 's|yyyy-mm-dd|$current_date|g' CHANGELOG.md
       - name: Cleanup repository initialization files
         run: |
           rm -rf .github/workflows/init-dataset-repo.yaml
