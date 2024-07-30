@@ -1,0 +1,29 @@
+site_name: Gem-in-a-box Dataset Repository
+site_description: Gem-in-a-box Dataset Repository
+
+repo_url: https://github.com/hakaiinstitute/gem-in-a-box-dataset-repository-template
+edit_uri: blob/main/docs/
+
+theme:
+  palette:
+    primary: teal
+    accent: blue
+  name: material
+  logo: logos/logo.png
+  custom_dir: docs/.overrides
+
+markdown_extensions:
+  - toc:
+      permalink: 
+  - attr_list
+  - def_list
+  - tables
+  - pymdownx.highlight:
+      use_pygments: false
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - md_in_html
+
+
+plugins:
+  - search
