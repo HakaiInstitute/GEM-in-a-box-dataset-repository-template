@@ -6,3 +6,6 @@ contact_links:
   - name: Gem-in-a-box Template issues
     url: https://github.com/HakaiInstitute/GEM-in-a-box-dataset-repository-template/issues
     about: Please report template specific issues here.
+  - name: Dataset Resository Issue
+    url: ..
+    about: Please report issues with this dataset repository here.
