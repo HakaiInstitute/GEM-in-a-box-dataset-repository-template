@@ -24,6 +24,8 @@ markdown_extensions:
   - pymdownx.superfences
   - md_in_html
 
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
