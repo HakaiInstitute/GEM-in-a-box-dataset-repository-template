@@ -40,6 +40,26 @@ markdown_extensions:
   - pymdownx.superfences
   - md_in_html
 
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: repo.url
+
+footer_logos:
+  - src: logos/Ocean-Decade-logo-transparent.png
+    href: https://hakai.org
+    alt: Ocean Decade
+  - src: logos/ocean_decade_collaborative_center_for_the_northeast_pacific_logo.jpeg
+    href: https://hakai.org
+    alt: Ocean Decade Collaborative Center for the Northeast Pacific
+  - src: logos/tula-logo.png
+    href: https://tula.org
+    alt: Tula Foundation
+  - src: logos/hakai-logo.png
+    href: https://hakai.org
+    alt: Hakai Institute
+
 extra_css:
   - stylesheets/extra.css
 
