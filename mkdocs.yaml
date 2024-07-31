@@ -1,8 +1,8 @@
 site_name: GEM-in-a-Box Project Documentation
 site_description: A Dataset Repository
 
+repo_name: GEM-in-a-Box-dataset-repository-template
 repo_url: https://github.com/hakaiinstitute/gem-in-a-box-dataset-repository-template
-edit_uri: blob/main/docs/
 
 theme:
   palette:
@@ -22,13 +22,14 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   name: material
-  logo: logos/logo.png
+  logo: logos/hakai-logo.png
   custom_dir: docs/.overrides
+  icon:
+    repo: fontawesome/brands/github 
   features:
     - search.suggest
     - search.highlight
     - search.share
-    - navigation.footer
 
 markdown_extensions:
   - attr_list
@@ -66,3 +67,4 @@ extra_css:
 plugins:
   - search
   - offline
+

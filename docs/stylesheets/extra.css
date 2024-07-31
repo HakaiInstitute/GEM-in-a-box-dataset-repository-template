@@ -1,18 +1,32 @@
 .md-typeset figure img {
-    display: inline;
+  display: inline;
 }
 .md-footer-logo {
-    /* max-width: 95px !important; */
-    max-height: 55px;
+  /* max-width: 95px !important; */
+  max-height: 55px;
 }
 .md-footer-logos {
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    gap: 20px; 
-    flex-wrap: wrap;
-    background-color:rgb(255, 255, 255); 
-    border-radius:10px;
-    padding:10px;
-    margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.welcome-logos-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  background-color: white;
+  border-radius: 10px;
+}
+.welcome-logos-div img {
+    max-width:145px;
+    max-height:110px;
 }
