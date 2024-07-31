@@ -1,6 +1,7 @@
 name: Create initialization issue on repository dispatch
 on:
-    create:
+    push:
+      branches: main
 
 jobs:
   create_issue:
