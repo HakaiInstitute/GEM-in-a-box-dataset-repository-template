@@ -65,3 +65,4 @@ extra_css:
 
 plugins:
   - search
+  - offline
