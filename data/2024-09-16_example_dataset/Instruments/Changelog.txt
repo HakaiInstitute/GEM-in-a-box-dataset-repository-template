@@ -1,0 +1,10 @@
+Date (YYYY-MM-DD): 
+Data Provider: 
+
+This changelog records any differences between the raw data file and the final data file. Please leave empty if no data was modified, added or removed.
+
+## Modifications
+
+## Additions
+
+## Removals
