@@ -3,7 +3,7 @@ on:
   pull_request:
     branches:
       - main
-      - timvdstap-patch-1
+
 jobs:
   check_naming:
     runs-on: ubuntu-latest
