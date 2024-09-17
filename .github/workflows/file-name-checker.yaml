@@ -1,0 +1,24 @@
+name: Check Project Files Naming
+on: 
+  pull_request:
+    branches:
+      - main
+jobs:
+  check_naming:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Filename Inspector Default
+      id: scan-test-files
+      uses: AbsaOSS/filename-inspector@v0.1.0
+      with:
+        name-patterns: 'YYYY-MM-DD_*'
+        paths: | 
+          **/data/**
+          **/data/Aquafluor/**,
+          **/data/DR1900/**,
+          **/data/Instruments/**
+        excludes: |
+         **/data/Aquafluor/Changelog.txt
+         **/data/DR1900/Changelog.txt
+         **/data/Instruments/Changelog.txt
