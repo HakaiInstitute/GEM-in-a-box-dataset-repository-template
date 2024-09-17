@@ -13,12 +13,23 @@ jobs:
       id: scan-test-files
       uses: AbsaOSS/filename-inspector@v0.1.0
       with:
-        name-patterns: 'yyyy-MM-dd_*'
+        name-patterns: '[0-9][0-9][0-9][0-9]_[0-9][0-9]_[0-9][0-9]_*'
         paths: | 
-          **/data/**
-          **/data/Aquafluor/**,
-          **/data/DR1900/**,
-          **/data/Instruments/**
+          # Match to have all files with extension .csv and .jpeg within the data folder have convention yyyy-mm-dd.
+          **/data/*.csv
+          **/data/*.jpg
+          **/data/Aquafluor/*.csv,
+          **/data/Aquafluor/*.xlsx,
+          **/data/Aquafluor/*.jpg,
+          **/data/Aquafluor/*.txt
+          **/data/DR1900/*.csv,
+          **/data/DR1900/*.xlsx,
+          **/data/DR1900/*.jpg,
+          **/data/DR1900/*.txt
+          **/data/Instruments/*.csv,
+          **/data/Instruments/*.xlsx,
+          **/data/Instruments/*.jpg,
+          **/data/Instruments/*.txt
         excludes: |
          **/data/Aquafluor/Changelog.txt
          **/data/DR1900/Changelog.txt
