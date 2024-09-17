@@ -13,7 +13,7 @@ jobs:
       id: scan-test-files
       uses: AbsaOSS/filename-inspector@v0.1.0
       with:
-        name-patterns: '[0-9][0-9][0-9][0-9]_[0-9][0-9]_[0-9][0-9]_*'
+        name-patterns: '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]_*'
         paths: | 
           **/data/**,
           **/data/*.csv,
