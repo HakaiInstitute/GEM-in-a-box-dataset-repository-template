@@ -34,6 +34,7 @@ jobs:
          **/data/**/DR1900/Changelog.txt
          **/data/**/Instruments/Changelog.txt
         fail-on-violation: 'true'
+        verbose-logging: 'true'
     - name: Notify failed build
       uses: jayqi/failed-build-issue-action@v1
       if: failure() && github.event.pull_request == null
