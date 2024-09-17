@@ -13,7 +13,7 @@ jobs:
       id: scan-test-files
       uses: AbsaOSS/filename-inspector@v0.1.0
       with:
-        name-patterns: 'YYYY-MM-DD_*'
+        name-patterns: 'yyyy-MM-dd_*'
         paths: | 
           **/data/**
           **/data/Aquafluor/**,
