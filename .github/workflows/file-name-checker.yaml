@@ -15,17 +15,16 @@ jobs:
       with:
         name-patterns: '[0-9][0-9][0-9][0-9]_[0-9][0-9]_[0-9][0-9]_*'
         paths: | 
-          # Match to have all files with extension .csv and .jpeg within the data folder have convention yyyy-mm-dd.
-          **/data/*.csv
-          **/data/*.jpg
+          **/data/*.csv,
+          **/data/*.jpg,
           **/data/Aquafluor/*.csv,
           **/data/Aquafluor/*.xlsx,
           **/data/Aquafluor/*.jpg,
-          **/data/Aquafluor/*.txt
+          **/data/Aquafluor/*.txt,
           **/data/DR1900/*.csv,
           **/data/DR1900/*.xlsx,
           **/data/DR1900/*.jpg,
-          **/data/DR1900/*.txt
+          **/data/DR1900/*.txt,
           **/data/Instruments/*.csv,
           **/data/Instruments/*.xlsx,
           **/data/Instruments/*.jpg,
