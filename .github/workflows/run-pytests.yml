@@ -19,4 +19,4 @@ jobs:
           pip install git+https://github.com/HakaiInstitute/hakai-datasets-repo-standard-tests.git
       - name: Test with pytest
         run: |
-          pytest --pyargs GEM_data_repo_tests
+          pytest --tb=short --pyargs GEM_data_repo_tests
