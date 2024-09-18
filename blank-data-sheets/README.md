@@ -5,7 +5,7 @@ This folder contains 3 files - the GEM Logbook Template, and the Print Versions 
 
 ## Data Template Sheets
 This folder contains the _standardized data template_ .csv files: 
-* Data that is downloaded from the instrument (PME miniDOT and CTD-Diver) can be included in 
+* Instrument (PME miniDOT and CTD-Diver) data 
 * Survey data
 * Aquafluor data
-* Nutrient data
+* DR1900 (Nutrient) data
