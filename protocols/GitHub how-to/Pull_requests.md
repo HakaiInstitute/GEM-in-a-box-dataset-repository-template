@@ -1,4 +1,4 @@
-If you have followed the steps on how to create additional (sub)folders within your data folder, and how to populate them with your survey and data files, you now have branches: your `main` branch, and the branch you have created for the survey data collected that day. The next steps will be merging the new branch into your `main` branch. You can do so through a **Pull Request**!
+If you have followed the steps on how to create additional (sub)folders within your data folder, and how to populate them with your survey and data files, you now have two branches: your `main` branch, and the branch you have created for the survey data collected that day. The next steps will be merging the new branch into your `main` branch. You can do so through a **Pull Request**!
 
 First, let's understand what a pull request (PR) actually is. In essence, with a pull request, you are _requesting one branch to be merged with, or pulled into, another branch_. In our case, we want to merge the new branch into the main. This way we can keep all the files and formats that have been processed and named properly into a single repository branch, the `main` branch. 
 
