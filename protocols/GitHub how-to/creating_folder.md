@@ -20,7 +20,7 @@ Have you finished another day of surveying? That's amazing! To upload your surve
 
 ![image](https://github.com/user-attachments/assets/5b90148f-d080-437b-84d9-15b5ece41f56)
 
-**6**. Next, select 'Create a new branch for this commit and start a pull request'. Essentially what it does - if you consider 'main' to be the tree trunk - it creates a separate branch that runs parallel to the 'main'. You will be able to make changes to this branch, that you can name, without it affecting your main branch. This way we'll try and keep the main branch as 'clean' as possible! Add a commit message at the top - in the future this might help you navigate to previous commits. In the bottom right corner, select 'Propose changes'. 
+**6**. Next, select 'Create a new branch for this commit and start a pull request'. Essentially what it does - if you consider 'main' to be the tree trunk - it creates a separate branch that runs parallel to the 'main'. You will be able to make changes to this branch, that you can name, without it affecting your main branch. This way we'll try and keep the main branch as 'clean' as possible! Add a commit message at the top - in the future this might help you navigate to previous commits. In the bottom right corner, select 'Propose changes' 
 
 ![image](https://github.com/user-attachments/assets/51b4c19f-76ba-4038-b008-c5374270a643)
 
