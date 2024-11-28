@@ -32,6 +32,6 @@ and descriptions.
 
 Link to any associated resources:
 
-- Data Management Plan
+- Data Management Plan: https://doi.org/10.48321/D150B946FB
 - External Data Repositories
 - Publications
