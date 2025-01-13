@@ -1,9 +1,9 @@
-Sampling Event Number,Survey Date,Analysis Date,Name of Analyser,Time Zone,Aquafluor Sample ID,Value,Channel,GEM Sample ID,Comment,Quality Flag
-,,,,,0,,TRB,Blank,,
-,,,,,1,,IVCH,Blank,,
-,,,,,2,,TRB,Blank,,
-,,,,,3,,IVCH,Blank,,
-,,,,,4,,IVCH,Solid Standard,,
+sampling_event_number,survey_date,analysis_date,name_of_analyser,time_zone,aquafluor_sample_id,value,channel,gem_sample_id,comment,quality_flag
+,,,,,0,,trb,blank,,
+,,,,,1,,ivch,blank,,
+,,,,,2,,trb,blank,,
+,,,,,3,,ivch,blank,,
+,,,,,4,,ivch,solid_standard,,
 ,,,,,5,,,,,
 ,,,,,6,,,,,
 ,,,,,7,,,,,
