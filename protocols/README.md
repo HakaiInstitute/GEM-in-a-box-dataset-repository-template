@@ -1,0 +1,1 @@
+This folder contains any relevant protocols related to data collection, data processing and data curation. Additionally, it contains a subfolder ('GitHub how-to') that describes the basic GitHub interactions.
