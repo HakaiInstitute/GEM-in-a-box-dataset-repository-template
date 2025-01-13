@@ -38,7 +38,7 @@ instrument_data_sheet_template.csv,sampling_event_number,Unique number for the s
 ,instrument_time,Time of variable measurement as recorded by the instrument (HH:MM),
 ,value,Value of the variable measured,
 ,unit_of_measurement,Unit of measurement associated with the variable,
-,gem_sample_id,Unique string given by the participant for the instrument sample ID. Should follow the format: {Sampling Event Number}_{Variable}_{Replicate},
+,gem_sample_id,Unique string given by the participant for the instrument sample ID. Should follow the format: {sampling_event_number}_{Variable}_{Replicate},
 ,comment,Any comments associated with this measurement,
 ,quality_flag,"Primary-level flag values: 1 = Good; 2 = Not evaluated, not available, or unknown; 3 = Questionable/suspect; 4 = Bad; 5 = Missing data",Quality Flag scheme: https://repository.oceanbestpractices.org/bitstream/handle/11329/413/MG54_3.pdf?sequence=1&isAllowed=y
 ,,,
