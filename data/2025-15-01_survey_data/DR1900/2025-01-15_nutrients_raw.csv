@@ -1,0 +1,17 @@
+﻿Device Type,DR1900,,,,,,,,,,,,
+Serial Number:,2.41867E+11,,,,,,,,,,,,
+Time,User ID,Sample ID,Test Number,Test Name,ABS,Result,Unit,Chemical Form,Dilution,Reagent Blank,Standard Adjust,Message1,
+2025-01-16 11:19,C WEEKES,N SMPL(011),P346,N Inorganic TNT,0.026,0.4,mg/L,N,Off,Off,Off,,EndOfRecord
+2025-01-16 11:19,C WEEKES,N SMPL(010),P346,N Inorganic TNT,0.024,0.4,mg/L,N,Off,Off,Off,,EndOfRecord
+2025-01-16 11:18,C WEEKES,N SMPL(009),P346,N Inorganic TNT,0.022,0.3,mg/L,N,Off,Off,Off,,EndOfRecord
+2025-01-16 11:17,C WEEKES,N SMPL(008),P346,N Inorganic TNT,0.024,0.4,mg/L,N,Off,Off,Off,,EndOfRecord
+2025-01-16 11:16,C WEEKES,N 10MGL STD(001),P346,N Inorganic TNT,0.52,8,mg/L,N,Off,Off,Off,,EndOfRecord
+2025-01-15 15:49,C WEEKES,SI SMPL(002),P656,Silica HR,0.037,4.1,mg/L,SiO₂,Off,Off,Off,,EndOfRecord
+2025-01-15 15:47,C WEEKES,SI SMPL(001),P656,Silica HR,0.035,3.8,mg/L,SiO₂,Off,Off,Off,,EndOfRecord
+2025-01-15 15:37,C WEEKES,SI BLANK(002),P656,Silica HR,0,0,mg/L,SiO₂,Off,Off,Off,,EndOfRecord
+2025-01-15 15:26,C WEEKES,SI 50MGLSTD(006),P656,Silica HR,0.423,46.8,mg/L,SiO₂,Off,Off,Off,,EndOfRecord
+2025-01-15 15:26,C WEEKES,SI 50MGLSTD(005),P656,Silica HR,0.423,46.8,mg/L,SiO₂,Off,Off,Off,,EndOfRecord
+2025-01-15 15:24,C WEEKES,SI 50MGLSTD(004),P656,Silica HR,0.425,46.9,mg/L,SiO₂,Off,Off,Off,,EndOfRecord
+2025-01-15 14:43,C WEEKES,P SMPL(002),P490,P React. PV,0.127,0.3,mg/L,PO₄³⁻,Off,Off,Off,,EndOfRecord
+2025-01-15 14:41,C WEEKES,P SMPL(001),P490,P React. PV,0.111,0.26,mg/L,PO₄³⁻,Off,Off,Off,,EndOfRecord
+2025-01-15 14:40,C WEEKES,P 2MGLSTD(004),P490,P React. PV,0.895,2.12,mg/L,PO₄³⁻,Off,Off,Off,,EndOfRecord
