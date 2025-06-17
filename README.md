@@ -14,7 +14,7 @@ Please provide a summary of your project or dataset here.
 
 ## Getting Started
 
-For information on the GitHub data workflow (e.g., creating new (sub)folders, creating issues, merging pull requests and troubleshooting failed checks), please see the [GitHub How To](/../../protocols/GitHub%20how-to). 
+For information on the GitHub data workflow (e.g., creating new (sub)folders, creating issues, merging pull requests and troubleshooting failed checks), please see the [GitHub How To](/../../tree/main/protocols/GitHub%20how-to). 
 
 ## Method
 
