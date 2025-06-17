@@ -10,15 +10,15 @@
 
 # dataset-title
 
-Summary here
+Please provide a summary of your project or dataset here.
 
 ## Getting Started
 
-See issue [#1](/../../issues/1) for getting started steps. You can remove this section once the issue is complete. For information on the GitHub data workflow (e.g., creating new (sub)folders, creating issues, merging pull requests and troubleshooting failed checks), please see the [GitHub How To](https://github.com/HakaiInstitute/GEM-in-a-box-dataset-repository-template/tree/timvdstap-patch-4/protocols/GitHub%20how-to). 
+For information on the GitHub data workflow (e.g., creating new (sub)folders, creating issues, merging pull requests and troubleshooting failed checks), please see the [GitHub How To](/../../protocols/GitHub%20how-to). 
 
 ## Method
 
-Description of the methodology
+Please provide a description of the methodology here.
 
 ## Reports
 
