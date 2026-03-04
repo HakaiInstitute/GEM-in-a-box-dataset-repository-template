@@ -1,0 +1,25 @@
+sampling_event_number,survey_date,analysis_date,name_of_analyser,time_zone,aquafluor_sample_id,value,channel,gem_sample_id,comment,quality_flag
+,9/16/2024,9/16/2024,Drew Jordison,PDT,0,0,IVCH,Blank,,
+,9/16/2024,9/16/2024,Drew Jordison,PDT,1,1.462,TRB,Blank,,
+,9/16/2024,9/16/2024,Drew Jordison,PDT,2,0.732,IVCH,Blank,,
+,9/16/2024,9/16/2024,Drew Jordison,PDT,3,1.506,TRB,Blank,,
+,9/16/2024,9/16/2024,Drew Jordison,PDT,4,23.86,IVCH,Solid Standard,,
+,9/16/2024,9/16/2024,Drew Jordison,PDT,5,98.44,TRB,NTU_100_TRB,,
+,9/16/2024,9/16/2024,Drew Jordison,PDT,6,0.504,IVCH,Blank,Changed to fresh DI water to run blanks again,
+,9/16/2024,9/16/2024,Drew Jordison,PDT,7,0.572,TRB,Blank,Changed to fresh DI water to run blanks again,
+1_2,9/16/2024,9/16/2024,Drew Jordison,PDT,8,18.46,IVCH,1_2_IVCH_1,,1
+1_2,9/16/2024,9/16/2024,Drew Jordison,PDT,9,7.913,TRB,1_2_TBR_1,,1
+1_2,9/16/2024,9/16/2024,Drew Jordison,PDT,10,19.41,IVCH,1_2_IVCH_2,,1
+1_2,9/16/2024,9/16/2024,Drew Jordison,PDT,11,7.817,TRB,1_2_TRB_2,,1
+1_2,9/16/2024,9/16/2024,Drew Jordison,PDT,12,15.83,IVCH,1_2_IVCH_3,,1
+1_2,9/16/2024,9/16/2024,Drew Jordison,PDT,13,7.982,TRB,1_2_TRB_3,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,14,19.15,IVCH,1_3_IVCH_1,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,15,9.212,TRB,1_3_TRB_1,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,16,23.21,IVCH,1_3_IVCH_2,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,17,9.446,TRB,1_3_TRB_2,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,18,18.78,IVCH,1_3_IVCH_3,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,19,9.275,TRB,1_3_TRB_3,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,20,25.37,IVCH,1_3_IVCH_4,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,21,9.207,TRB,1_3_TRB_4,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,22,21.99,IVCH,1_3_IVCH_5,,1
+1_3,9/16/2024,9/16/2024,Drew Jordison,PDT,23,9.692,TRB,1_3_TRB_5,,1
